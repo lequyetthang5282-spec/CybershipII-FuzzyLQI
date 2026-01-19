@@ -18,3 +18,8 @@ To run the simulation, you need Python 3.x installed along with the following li
 You can install them via pip:
 ```bash
 pip install numpy matplotlib scipy
+## 3. Usage
+Open and run the Jupyter notebook:
+
+```bash
+CybershipII-FuzzyLQI.ipynb
